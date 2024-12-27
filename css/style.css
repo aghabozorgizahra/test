@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "yekan";
+    src: url(../font/iranyekanwebregular.e31c09af.woff2);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "yekan";
+    src: url(../font/iranyekanwebmedium.2d4f96e5.woff);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "yekan";
+    src: url(../font/iranyekanwebbold.cfb6e26c.woff2);
+    font-weight: 700;
+}
+  * {
+    font-family: "yekan";
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
